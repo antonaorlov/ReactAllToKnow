@@ -1,3 +1,19 @@
+#ALL I NEED TO KNWO FOR REACT IS IN HERE 
+# Components, Templates, click events, useHooks, Props, functions as Props
+# UseEfefct Hooks, USeEffect fetching data json Loading Message,
+# Fetch Errors, Post Requests, Submit events
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
